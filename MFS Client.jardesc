@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?><jardesc>
+    <jar path="C:/mfgapps/mfs80.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/MFS Client/MFS Client.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="false" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient{MFSMain.java[MFSMain" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.renderer"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.io{IGSFileUtils.java"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.tree"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.exception"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;common"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.barcode"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.utils"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.panel"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;com.ibm.rchland.mfgapps.mfscommon.struct"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.xml"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;com.ibm.rchland.mfgapps.mfscommon.comm.trx"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.icon"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.dialog"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.layout"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;SmartChipVPD"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.dialog.log"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.dialog.rework"/>
+        <file path="/MFS Client/mfsClientVersion.properties"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.io{IGSPad.java"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;images"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils{IGSMaxLengthDocument.java"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;com.ibm.rchland.mfgapps.mfscommon.exception"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;com.ibm.rchland.mfgapps.mfscommon"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.media"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.messagebox"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.media"/>
+        <javaElement handleIdentifier="=MFS Client/&lt;com.ibm.rchland.mfgapps.mfsclient.struct"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;sounds"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.io{IGSDownloader.java"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils{IGSI18N.java"/>
+        <javaElement handleIdentifier="=MFS Common/&lt;com.ibm.rchland.mfgapps.mfscommon.comm"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.table"/>
+        <javaElement handleIdentifier="=mfsxml/&lt;mfsxml"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.beans"/>
+        <javaElement handleIdentifier="=client utils/&lt;com.ibm.rchland.mfgapps.client.utils.panel.dynamic"/>
+    </selectedElements>
+</jardesc>
